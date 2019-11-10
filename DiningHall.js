@@ -18,6 +18,7 @@ describe('Dining Hall Menu', function()
     beforeAll( function() 
     {
         console.log("");
+        console.log("");
 
         //LO
         browser.manage().deleteAllCookies();
@@ -85,4 +86,3 @@ describe('Dining Hall Menu', function()
       });
 
 })
-

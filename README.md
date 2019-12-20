@@ -11,7 +11,7 @@ Our program goes through each dining hall's online menu, retrives the vegetarian
 and returns the number of vegetarian dishes to the user to have the best experience.
 
 We do this by using Protractor, which is a tool for front-end web test automation, but
-we are using it for retrieving a CSS page element for a a vegetarian item, and then storing the number of items
+we are using it for retrieving a CSS page element for a vegetarian item, and then storing the number of items
 it displays on the menu in a variable.
 
 Then we compare the values between dining halls and whichever dining halls has the highest number of vegetarian dishes
